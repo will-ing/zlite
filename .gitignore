@@ -1,0 +1,35 @@
+# Ignore build outputs
+build/
+target/
+
+# Ignore dependency directories
+node_modules/
+zig-cache/
+zig-out/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore packaged files or archives
+*.zip
+*.tar.gz
+*.rar
+
